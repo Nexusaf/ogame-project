@@ -30,12 +30,7 @@ const shipsController = {
 
   fleetCargo: async (req, res) => {
     try {
-      // Ships must be an array
-      const ships = req.body
-      if (!Array.isArray(ships)) {
-        return res.status(400).json({ error: 'Ships must be an array' })
-      }
-      const result = await calculateFleetCargo(ships)
+      const result = await calculateFleetCargo()
       res.status(200).json(result)
     } catch (error) {
       res.status(500).json({ error: 'Failed to calculate fleet cargo capacity' })

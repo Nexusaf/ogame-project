@@ -1,0 +1,66 @@
+[
+  {
+    "shipName": "Small Cargo",
+    "quantity": 18281
+  },
+
+  {
+    "shipName": "Large Cargo",
+    "quantity": 5745
+  },
+
+  {
+    "shipName": "Recycler",
+    "quantity": 3104
+  },
+
+  {
+    "shipName": "Espionage Probe",
+    "quantity": 823
+  },
+
+  {
+    "shipName": "Light Fighter",
+    "quantity": 1655
+  },
+
+  {
+    "shipName": "Heavy Fighter",
+    "quantity": 601
+  },
+
+  {
+    "shipName": "Cruiser",
+    "quantity": 400
+  },
+
+  {
+    "shipName": "Battleship",
+    "quantity": 200
+  },
+
+  {
+    "shipName": "Battlecruiser",
+    "quantity": 205
+  },
+
+  {
+    "shipName": "Bomber",
+    "quantity": 100
+  },
+
+  {
+    "shipName": "Destroyer",
+    "quantity": 100
+  },
+
+  {
+    "shipName": "Reaper",
+    "quantity": 398
+  },
+
+  {
+    "shipName": "Pathfinder",
+    "quantity": 378
+  }
+]

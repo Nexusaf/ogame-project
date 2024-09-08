@@ -1,4 +1,4 @@
-import { getShipsData } from "../data/dataAccess.js"
+import { getShipsData, getFleetData } from "../data/dataAccess.js"
 
 const getShips = async () => {
   try {
@@ -57,8 +57,9 @@ const calculateCost = async (shipName, quantity = 1) => {
   }
 }
 
-const calculateFleetCargo = async (fleet) => {
+const calculateFleetCargo = async () => {
   try {
+    const fleet = await getFleetData()
     const ships = await getShipsData();
     if (!Array.isArray(fleet) || fleet.length === 0) {
       throw new Error('Invalid fleet data');
