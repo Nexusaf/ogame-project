@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Rocket Launcher",
+    "cost": {
+      "metal": 2000,
+      "crystal": 0,
+      "deuterium": 0
+    },
+    "buildTime": 0.5
+  },
+  {
+    "name": "Light Laser",
+    "cost": {
+      "metal": 1500,
+      "crystal": 500,
+      "deuterium": 0
+    },
+    "buildTime": 1
+  },
+  {
+    "name": "Heavy Laser",
+    "cost": {
+      "metal": 6000,
+      "crystal": 2000,
+      "deuterium": 0
+    },
+    "buildTime": 2
+  },
+  {
+    "name": "Gauss Cannon",
+    "cost": {
+      "metal": 20000,
+      "crystal": 15000,
+      "deuterium": 2000
+    },
+    "buildTime": 2
+  },
+  {
+    "name": "Ion Cannon",
+    "cost": {
+      "metal": 5000,
+      "crystal": 3000,
+      "deuterium": 0
+    },
+    "buildTime": 6
+  },
+  {
+    "name": "Plasma Turret",
+    "cost": {
+      "metal": 50000,
+      "crystal": 50000,
+      "deuterium": 30000
+    },
+    "buildTime": 12
+  },
+  {
+    "name": "Small Shield Dome",
+    "cost": {
+      "metal": 10000,
+      "crystal": 10000,
+      "deuterium": 0
+    },
+    "buildTime": 3
+  },
+  {
+    "name": "Large Shield Dome",
+    "cost": {
+      "metal": 50000,
+      "crystal": 50000,
+      "deuterium": 0
+    },
+    "buildTime": 15
+  },
+  {
+    "name": "Anti Ballistic Missiles",
+    "cost": {
+      "metal": 8000,
+      "crystal": 0,
+      "deuterium": 2000
+    },
+    "buildTime": 0.5
+  },
+  {
+    "name": "Interplanetary Missiles",
+    "cost": {
+      "metal": 12000,
+      "crystal": 2500,
+      "deuterium": 10000
+    },
+    "buildTime": 1
+  }
+]

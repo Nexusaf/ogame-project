@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1:341:1",
+    "name": "Chaldene",
+    "fields": "210",
+    "maxTemperature": "241°C",
+    "minTemperature": "201°C",
+    "production": {
+      "metal": 280250,
+      "crystal": 303895,
+      "deuterium": 24256
+    }
+  },
+  {
+    "id": "1:342:5",
+    "name": "Daphnis",
+    "fields": "240",
+    "maxTemperature": "70°C",
+    "minTemperature": "32°C",
+    "production": {
+      "metal": 253825,
+      "crystal": 105669,
+      "deuterium": 63803
+    }
+  },
+  {
+    "id": "1:342:14",
+    "name": "Titania",
+    "fields": "241",
+    "maxTemperature": "-72°C",
+    "minTemperature": "-112°C",
+    "production": {
+      "metal": 271779,
+      "crystal": 99134,
+      "deuterium": 110873
+    }
+  },
+  {
+    "id": "1:343:3",
+    "name": "Kale",
+    "fields": "232",
+    "maxTemperature": "140°C",
+    "minTemperature": "100°C",
+    "production": {
+      "metal": 320887,
+      "crystal": 191228,
+      "deuterium": 41396
+    }
+  },
+  {
+    "id": "1:344:7",
+    "name": "Cressida",
+    "fields": "230",
+    "maxTemperature": "68°C",
+    "minTemperature": "28°C",
+    "production": {
+      "metal": 484648,
+      "crystal": 117624,
+      "deuterium": 58858
+    }
+  },
+  {
+    "id": "1:344:8",
+    "name": "Ymir",
+    "fields": "227",
+    "maxTemperature": "68°C",
+    "minTemperature": "28°C",
+    "production": {
+      "metal": 665403,
+      "crystal": 117779,
+      "deuterium": 64326
+    }
+  },
+  {
+    "id": "1:345:12",
+    "name": "Proxima b",
+    "fields": "235",
+    "maxTemperature": "5°C",
+    "minTemperature": "-35°C",
+    "production": {
+      "metal": 284543,
+      "crystal": 116655,
+      "deuterium": 96657
+    }
+  },
+  {
+    "id": "5:171:1",
+    "name": "Balthoria",
+    "fields": "204",
+    "maxTemperature": "258°C",
+    "minTemperature": "218°C",
+    "production": {
+      "metal": 185296,
+      "crystal": 261372,
+      "deuterium": 3999
+    }
+  },
+  {
+    "id": "5:171:8",
+    "name": "Fornax",
+    "fields": "252",
+    "maxTemperature": "33°C",
+    "minTemperature": "-7°C",
+    "production": {
+      "metal": 439667,
+      "crystal": 37100,
+      "deuterium": 10689
+    }
+  },
+  {
+    "id": "5:171:15",
+    "name": "Aurora",
+    "fields": "195",
+    "maxTemperature": "-127°C",
+    "minTemperature": "-167°C",
+    "production": {
+      "metal": 103556,
+      "crystal": 38591,
+      "deuterium": 188919
+    }
+  }
+]

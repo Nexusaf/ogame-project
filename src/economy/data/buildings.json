@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Metal Mine",
+    "cost": {
+      "metal": 60,
+      "crystal": 15,
+      "deuterium": 0
+    },
+    "buildTime": 11,
+    "base": 1.5
+  },
+  {
+    "name": "Crystal Mine",
+    "cost": {
+      "metal": 48,
+      "crystal": 24,
+      "deuterium": 0
+    },
+    "buildTime": 11,
+    "base": 1.6
+  },
+  {
+    "name": "Deuterium Synthesizer",
+    "cost": {
+      "metal": 225,
+      "crystal": 75,
+      "deuterium": 0
+    },
+    "buildTime": 22,
+    "base": 1.5
+  },
+  {
+    "name": "Solar Plant",
+    "cost": {
+      "metal": 75,
+      "crystal": 30,
+      "deuterium": 0
+    },
+    "buildTime": 22,
+    "base": 1.5
+  },
+  {
+    "name": "Fusion Reactor",
+    "cost": {
+      "metal": 900,
+      "crystal": 360,
+      "deuterium": 180
+    },
+    "buildTime": 64,
+    "base": 1.8
+  },
+  {
+    "name": "Metal Storage",
+    "cost": {
+      "metal": 1000,
+      "crystal": 0,
+      "deuterium": 0
+    },
+    "buildTime": 51,
+    "base": 2
+  },
+  {
+    "name": "Crystal Storage",
+    "cost": {
+      "metal": 1000,
+      "crystal": 500,
+      "deuterium": 0
+    },
+    "buildTime": 77,
+    "base": 2
+  },
+  {
+    "name": "Deuterium Storage",
+    "cost": {
+      "metal": 1000,
+      "crystal": 1000,
+      "deuterium": 0
+    },
+    "buildTime": 102,
+    "base": 2
+  },
+  {
+    "name": "Robot Factory",
+    "cost": {
+      "metal": 400,
+      "crystal": 120,
+      "deuterium": 200
+    },
+    "buildTime": 26,
+    "base": 2
+  },
+  {
+    "name": "Nanite Factory",
+    "cost": {
+      "metal": 1000000,
+      "crystal": 500000,
+      "deuterium": 100000
+    },
+    "buildTime": 270000,
+    "base": 2
+  },
+  {
+    "name": "Shipyard",
+    "cost": {
+      "metal": 400,
+      "crystal": 200,
+      "deuterium": 100
+    },
+    "buildTime": 30,
+    "base": 2
+  },
+  {
+    "name": "Research Lab",
+    "cost": {
+      "metal": 200,
+      "crystal": 400,
+      "deuterium": 200
+    },
+    "buildTime": 30,
+    "base": 2
+  },
+  {
+    "name": "Terraformer",
+    "cost": {
+      "metal": 0,
+      "crystal": 50000,
+      "deuterium": 100000
+    },
+    "buildTime": 2571,
+    "base": 2
+  },
+  {
+    "name": "Space Dock",
+    "cost": {
+      "metal": 200,
+      "crystal": 0,
+      "deuterium": 50
+    },
+    "buildTime": 10,
+    "base": 5
+  },
+  {
+    "name": "Alliance Depot",
+    "cost": {
+      "metal": 20000,
+      "crystal": 40000,
+      "deuterium": 0
+    },
+    "buildTime": 3085,
+    "base": 2
+  },
+  {
+    "name": "Missile Silo",
+    "cost": {
+      "metal": 20000,
+      "crystal": 20000,
+      "deuterium": 1000
+    },
+    "buildTime": 2057,
+    "base": 2
+  }
+]

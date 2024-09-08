@@ -1,0 +1,223 @@
+[
+  {
+    "name": "Light Fighter",
+    "capacity": 85,
+    "shield": 28,
+    "attack": 140,
+    "integrity": 10800,
+    "cost": {
+      "metal": 3000,
+      "crystal": 1000,
+      "deuterium": 0
+    },
+    "buildTime": 1
+  },
+  {
+    "name": "Heavy Fighter",
+    "capacity": 170,
+    "shield": 70,
+    "attack": 420,
+    "integrity": 27063,
+    "cost": {
+      "metal": 6000,
+      "crystal": 4000,
+      "deuterium": 0
+    },
+    "buildTime": 1.5
+  },
+  {
+    "name": "Cruiser",
+    "capacity": 1369,
+    "shield": 140,
+    "attack": 1124,
+    "integrity": 73233,
+    "cost": {
+      "metal": 20000,
+      "crystal": 7000,
+      "deuterium": 2000
+    },
+    "buildTime": 4
+  },
+  {
+    "name": "Battleship",
+    "capacity": 2569,
+    "shield": 562,
+    "attack": 2812,
+    "integrity": 162761,
+    "cost": {
+      "metal": 45000,
+      "crystal": 15000,
+      "deuterium": 0
+    },
+    "buildTime": 8
+  },
+  {
+    "name": "Battlecruiser",
+    "capacity": 1275,
+    "shield": 1120,
+    "attack": 1960,
+    "integrity": 189000,
+    "cost": {
+      "metal": 30000,
+      "crystal": 40000,
+      "deuterium": 15000
+    },
+    "buildTime": 5
+  },
+  {
+    "name": "Bomber",
+    "capacity": 850,
+    "shield": 1400,
+    "attack": 2800,
+    "integrity": 202500,
+    "cost": {
+      "metal": 50000,
+      "crystal": 25000,
+      "deuterium": 15000
+    },
+    "buildTime": 15
+  },
+  {
+    "name": "Destroyer",
+    "capacity": 3400,
+    "shield": 1400,
+    "attack": 5600,
+    "integrity": 297000,
+    "cost": {
+      "metal": 60000,
+      "crystal": 50000,
+      "deuterium": 15000
+    },
+    "buildTime": 12
+  },
+  {
+    "name": "Death Star",
+    "capacity": 1700000,
+    "shield": 140000,
+    "attack": 560000,
+    "integrity": 24300000,
+    "cost": {
+      "metal": 5000000,
+      "crystal": 4000000,
+      "deuterium": 1000000
+    },
+    "buildTime": 24
+  },
+  {
+    "name": "Reaper",
+    "capacity": 17000,
+    "shield": 1960,
+    "attack": 7840,
+    "integrity": 378000,
+    "cost": {
+      "metal": 85000,
+      "crystal": 55000,
+      "deuterium": 20000
+    },
+    "buildTime": 1
+  },
+  {
+    "name": "Pathfinder",
+    "capacity": 17000,
+    "shield": 280,
+    "attack": 560,
+    "integrity": 62100,
+    "cost": {
+      "metal": 8000,
+      "crystal": 15000,
+      "deuterium": 8000
+    },
+    "buildTime": 1
+  },
+  {
+    "name": "Small Cargo",
+    "capacity": 11039,
+    "shield": 28,
+    "attack": 14,
+    "integrity": 10800,
+    "cost": {
+      "metal": 2000,
+      "crystal": 2000,
+      "deuterium": 0
+    },
+    "buildTime": 1
+  },
+  {
+    "name": "Large Cargo",
+    "capacity": 55196,
+    "shield": 70,
+    "attack": 14,
+    "integrity": 32400,
+    "cost": {
+      "metal": 6000,
+      "crystal": 6000,
+      "deuterium": 0
+    },
+    "buildTime": 1
+  },
+  {
+    "name": "Colony Ship",
+    "capacity": 14589,
+    "shield": 280,
+    "attack": 140,
+    "integrity": 81000,
+    "cost": {
+      "metal": 10000,
+      "crystal": 20000,
+      "deuterium": 10000
+    },
+    "buildTime": 1
+  },
+  {
+    "name": "Recycler",
+    "capacity": 41072,
+    "shield": 28,
+    "attack": 2,
+    "integrity": 44557,
+    "cost": {
+      "metal": 10000,
+      "crystal": 6000,
+      "deuterium": 2000
+    },
+    "buildTime": 1
+  },
+  {
+    "name": "Espionage Probe",
+    "capacity": 9,
+    "shield": 0,
+    "attack": 0,
+    "integrity": 2700,
+    "cost": {
+      "metal": 0,
+      "crystal": 1000,
+      "deuterium": 0
+    },
+    "buildTime": 1
+  },
+  {
+    "name": "Solar Satellite",
+    "capacity": 0,
+    "shield": 2,
+    "attack": 2,
+    "integrity": 5400,
+    "cost": {
+      "metal": 2000,
+      "crystal": 2000,
+      "deuterium": 0
+    },
+    "buildTime": 1
+  },
+  {
+    "name": "Crawler",
+    "capacity": 0,
+    "shield": 2,
+    "attack": 2,
+    "integrity": 10800,
+    "cost": {
+      "metal": 2000,
+      "crystal": 2000,
+      "deuterium": 1000
+    },
+    "buildTime": 1
+  }
+]
